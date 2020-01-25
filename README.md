@@ -10,5 +10,12 @@ Using Cytometry Data][1].
 - `src/transform.py`
     - The script that transforms the raw data and saves to
       `data/cb/cb_transformed.csv`.
+- `data/`
+    - `cb/`
+        - Contains the cord blood data used in this work. See `README.md`
+          in that directory.
+    - `synthetic/`
+        - Contains the synthetic data used in this work. See `README.md`
+          in that directory.
 
 [1]: #
